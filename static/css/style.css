@@ -1,0 +1,194 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* reset css */
+
+/* main page */
+
+body{
+    background-color: 
+    #F5F5F5;
+}
+
+.first{display: inline; 
+    position: absolute;
+width: 54px;
+height: 27px;
+left: 537px;
+top: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+color: #000000;
+
+}
+
+.second{
+    position: absolute;
+    width: 81px;
+    height: 27px;
+    left: 657px;
+    top: 30px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+}
+.third{
+    position: absolute;
+    width: 100px;
+    height: 27px;
+    left: 804px;
+    top: 30px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+}
+
+
+
+
+a{color: black;}
+
+*{box-sizing: border-box}
+
+.box-1{    position: absolute;
+    width: 333px;    height: 487px;
+    left: 126px;    top: 247px;
+    border: 1px solid #000000; border-radius: 2px; padding: 5px;
+}
+.box-2{    position: absolute;
+    width: 333px; height: 481px;
+    left: 571px;    top: 253px;
+    border: 1px solid #000000; border-radius: 2px; padding: 5px;
+}
+.box-3{ position: absolute;
+    width: 333px; height: 481px; 
+    left: 1002px;  top: 253px;
+    border: 1px solid #000000; border-radius: 2px; padding: 5px;  border: 1px solid #000000;
+   
+}
+
+/* first boxes */
+
+
+.box-model1{ margin-top: 757px;  box-sizing: border-box;  
+}
+.boxx-1{  position: absolute;
+    width: 118px; height: 30px; top: 757px; left: 342px;
+    border-radius: 4px; border: 1px solid #000000;
+}
+.boxx-2{ position: absolute;
+    width: 118px; height: 30px; left: 785.12px; top: 757px;
+    border: 1px solid #000000; border-radius: 4px;
+}
+.boxx-3{ position: absolute;
+    width: 118px; height: 30px; left: 1217.12px; top: 757px;
+    border: 1px solid #000000; border-radius: 4px;
+}
+/* width: 118px; height: 30px; ----boxis */
+.see{position: absolute;
+    width: 65.56px; height: 18px; left: 26.22px;  top: 6px;
+    font-family: 'Poppins';  font-weight: 400; font-size: 12px; line-height: 18px;
+}
+
+h5{
+    width: 265.95px; height: 25.52px; margin-left: 26px; margin-top: 5px;
+    font-family: 'Poppins';  font-weight: 400; font-size: 16px; line-height: 24px;
+    color: #000000;
+}
+
+
+.Description{ 
+    width: 282.71px; height: 51.04px; margin-left: 26px;  margin-top: 18.48px;
+    font-family: 'Poppins'; font-weight: 400; font-size: 14px;  line-height: 21px;
+    letter-spacing: 0.03em;
+}
+
+/* main page */
+
+/* about us */
+
+.companypage{ width: 406px; height: 60px; margin-left: 517px; margin-top: 270px;
+    font-family: 'Poppins'; font-weight: 400; font-size: 40px; line-height: 60px; color: #000000;
+}
+.about-company{
+    width: 775px; height: 120px; margin-top: 117px; margin-left: 175px;
+    font-family: "Poppins";  font-weight: 400; font-size: 25px; line-height: 37.5px; color: #000000;
+}
+.adres_about{ width: 373px;height: 38px; margin-top: 108px;margin-left: 175px;
+font-family: "Poppins"; font-size: 25px; font-weight: 400; line-height: 37.5px; color: #000000;
+}
+
+
+/* contact */
+.contactpage{ 
+width: 222px; height: 60px; margin-top: 270px; margin-left: 609px; 
+font-family: 'Poppins';font-size: 40px; font-weight: 400; line-height: 60px; color: #000000;
+}
+
+
+
+.contact1{
+    width: 268px; height: 38px; margin-top: 117px; margin-left: 175px; 
+font-family: 'Poppins'; font-size: 25px; font-weight: 400; line-height: 37.5px;
+ }
+ .contact2{
+    width: 277px; height: 38px; margin-top: 28px; margin-left: 175px; 
+font-family: 'Poppins'; font-size: 25px; font-weight: 400; line-height: 37.5px;
+ }
+ .contact3{
+    width: 227px; height: 38px; margin-top: 28px; margin-left: 175px; 
+font-family: 'Poppins'; font-size: 25px; font-weight: 400; line-height: 37.5px;
+}
